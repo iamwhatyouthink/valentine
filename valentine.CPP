@@ -584,7 +584,7 @@ line(585,315-y,585,340-y);
 //Text
 settextstyle(4,0,5);
 setcolor(c);
-outtextxy(265,200-y,"Happy Valentine Shriya");
+outtextxy(265,200-y,"Happy Birthday");
 outtextxy(350,250-y,"******");
 
 if(u1[3]-y>=50)
