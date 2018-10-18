@@ -1,6 +1,6 @@
 #include<conio.h>
 #include<stdio.h>
-#include<dos.h>
+#include<do.h>
 #include<graphics.h>
 #include<process.h>
 #include<stdlib.h>
